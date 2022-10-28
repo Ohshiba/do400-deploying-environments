@@ -5,7 +5,7 @@ pipeline {
     }
   }
   environment {
-    RHT_OCP4_DEV_USER = 'YOUR_OCP_DEV_USER'
+    RHT_OCP4_DEV_USER = 'ohshiba'
       DEPLOYMENT_STAGE = 'shopping-cart-stage'
         DEPLOYMENT_PRODUCTION = 'shopping-cart-production'
   }
